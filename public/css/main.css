@@ -1,0 +1,38 @@
+body{
+    background-color: #F5F5DC;
+}
+
+nav .logo{
+height: 90px;
+width: 100px;
+margin-left: 30px;
+}
+
+nav {
+    height: 84px;
+    line-height: 84px;
+    /* background-color: #c25700; */
+    /* background-color: #793232; */
+    /* background: linear-gradient(0.25turn,tomato, #612626,tomato, #612626); */
+}
+
+.container .row{
+    margin-top: 50px;
+}
+
+
+.card-action p{
+    font-weight: 600;
+}
+
+.card-action p a,
+.card-action p span{
+    font-weight: 400;
+}
+
+.card .card-content .card-title {
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+/* #3f87a6 */
